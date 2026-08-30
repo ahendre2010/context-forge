@@ -26,6 +26,10 @@ Install the [`skills/context-forge`](skills/context-forge) directory in your age
 3. Write confirmed context after each round.
 4. Continue until no unanswered decisions remain and you confirm the result.
 
+## Acknowledgements
+
+The [grilling skill](skills/context-forge/references/grilling.md) was originally created by [Matt Pocock](https://github.com/mattpocock) and imported into Context Forge.
+
 ## License
 
 [MIT](LICENSE)
